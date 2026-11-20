@@ -31,7 +31,7 @@ off by default. if you turn on share this run and set a share URL (in the panel,
 
 ## status
 
-early. it runs end to end in blender 5.3 when a hunch service is installed. it is not yet a one click download.
+experimental and early. expect rough edges and changes, and check every result yourself. no trained models ship with this repo. our internal tingle model is trained on synthetic bootstrap data and is not included. it runs end to end in blender 5.3 when a hunch service is installed. it is not yet a one click download.
 
 ## licence
 
